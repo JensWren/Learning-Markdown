@@ -4,6 +4,11 @@
 
 ## ___This is an example of code___
 
+### Task List
+
+- [x] Familiarise myself with GitHub
+- [ ] Introduction to Bootstrap
+- [ ] Introductin to Python
 
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
